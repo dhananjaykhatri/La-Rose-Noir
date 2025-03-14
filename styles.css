@@ -295,7 +295,7 @@ body {
   width: 100%;
   line-height: 30px;
   text-align: center;
-  color: #290000;
+  color: #fffff;
 }
 .rose .text span:nth-child(1) {
   font-size: 30px;
@@ -322,12 +322,12 @@ body {
 .rose .petal:before {
   display: block;
   content: "";
-  background-color: #8b0000;
+  background-color: #BA0021;
   background-image: url('data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4gPHN2ZyB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGRlZnM+PHJhZGlhbEdyYWRpZW50IGlkPSJncmFkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgY3g9IjAlIiBjeT0iMTAwJSIgcj0iOTUlIj48c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjNTIwMDAwIi8+PHN0b3Agb2Zmc2V0PSI3MCUiIHN0b3AtY29sb3I9IiM1MjAwMDAiLz48c3RvcCBvZmZzZXQ9Ijk1JSIgc3RvcC1jb2xvcj0iIzhiMDAwMCIvPjwvcmFkaWFsR3JhZGllbnQ+PC9kZWZzPjxyZWN0IHg9IjAiIHk9IjAiIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIGZpbGw9InVybCgjZ3JhZCkiIC8+PC9zdmc+IA==');
   background-size: 100%;
-  background-image: -moz-radial-gradient(bottom left, ellipse cover, #520000 0%, #520000 70%, #8b0000 95%);
-  background-image: -webkit-radial-gradient(bottom left, ellipse cover, #520000 0%, #520000 70%, #8b0000 95%);
-  background-image: radial-gradient(ellipse cover at bottom left, #520000 0%, #520000 70%, #8b0000 95%);
+  background-image: -moz-radial-gradient(bottom left, ellipse cover, #520000 0%, #520000 70%, #BA0021 95%);
+  background-image: -webkit-radial-gradient(bottom left, ellipse cover, #520000 0%, #520000 70%, #BA0021 95%);
+  background-image: radial-gradient(ellipse cover at bottom left, #520000 0%, #520000 70%, #BA0021 95%);
   border-top-left-radius: 50% 35%;
   border-bottom-right-radius: 35% 50%;
   border-top-right-radius: 45%;
